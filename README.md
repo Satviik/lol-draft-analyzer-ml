@@ -110,7 +110,7 @@ The machine learning training methodology, feature engineering process, and data
 
 See:
 
-👉  [Model Training Documentation](MODEL_TRAINING.md)
+👉  [Model Training Documentation](Model_Training.md)
 
 ---
 
