@@ -137,7 +137,7 @@ Collect → Parse → Retrain → Deploy Updated Model.
 ---
 
 ## Architecture Diagram
-
+<pre>
 +--------------------+
 | Riot API           |
 +--------------------+
@@ -184,7 +184,7 @@ Collect → Parse → Retrain → Deploy Updated Model.
 | React Frontend     |
 | Vercel Deployment  |
 +--------------------+
-
+</pre>
 ---
 
 ## Future Work
